@@ -1,4 +1,4 @@
-## 📝 Final Project: Waste Classification with Transfer Learning  
+## 📝 Final Project: Classify Waste Products Using Transfer Learning
 This is the final project from the Coursera course **"Building Deep Learning Models with TensorFlow"** by IBM.  
 
 ## 🔍 Project Summary  
