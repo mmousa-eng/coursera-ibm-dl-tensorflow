@@ -6,6 +6,6 @@ The goal was to develop a classification model to automatically categorize waste
 
 ## 📁 Files  
 - `waste_classification.ipynb` – Contains the full implementation, including data preprocessing, model training, and evaluation.  
-- `waste_images.zip` – Dataset used for training and testing the model.  
+- `waste_data.zip` – Dataset used for training and testing the model.  
 
 🔗 [Link to the course](https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow)
