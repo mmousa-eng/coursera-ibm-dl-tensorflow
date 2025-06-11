@@ -2,7 +2,7 @@
 This is the final project from the Coursera course **"Building Deep Learning Models with TensorFlow"** by IBM.  
 
 ## 🔍 Project Summary  
-The goal was to develop an AI model that can automatically classify waste products.  
+The goal was to develop a classification model to automatically categorize waste products as recyclable or organic.  
 
 ## 📁 Files  
 - `waste_classification.ipynb` – Contains the full implementation, including data preprocessing, model training, and evaluation.  
