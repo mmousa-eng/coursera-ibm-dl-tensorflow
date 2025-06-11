@@ -4,8 +4,4 @@ This is the final project from the Coursera course **"Building Deep Learning Mod
 ## 🔍 Project Summary  
 The goal was to develop a classification model to automatically categorize waste products as recyclable or organic.  
 
-## 📁 Files  
-- `waste_classification.ipynb` – Contains the original project instructions from the course and my completed solution
-- `waste_data.zip` – Dataset used for training and testing the model
-
 🔗 [Link to the course](https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow)
